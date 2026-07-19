@@ -1,0 +1,149 @@
+{
+  "total": 16,
+  "viewers": [
+    {
+      "username": "ololosh_mk2",
+      "karma": 100.0,
+      "coins": 180,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1377527951"
+      }
+    },
+    {
+      "username": "macksosik",
+      "karma": 193.589355,
+      "coins": 5130,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "702511995"
+      }
+    },
+    {
+      "username": "streamelements",
+      "karma": 100.0,
+      "coins": 180,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "100135110"
+      }
+    },
+    {
+      "username": "fugiczar",
+      "karma": 100.0,
+      "coins": 1096,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "95947553"
+      }
+    },
+    {
+      "username": "lohomore",
+      "karma": 192.1192,
+      "coins": 3846,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "126745981"
+      }
+    },
+    {
+      "username": "justdoctor689",
+      "karma": 100.0,
+      "coins": 719,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "556647545"
+      }
+    },
+    {
+      "username": "striper23",
+      "karma": 100.0,
+      "coins": 280,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "229982691"
+      }
+    },
+    {
+      "username": "stareges",
+      "karma": 200.0,
+      "coins": 310,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "609503938"
+      }
+    },
+    {
+      "username": "t_darkpony_s",
+      "karma": 126.730034,
+      "coins": 185,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "738245024"
+      }
+    },
+    {
+      "username": "ferrum_mortem",
+      "karma": 100.0,
+      "coins": 1264,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "65821548"
+      }
+    },
+    {
+      "username": "jjjentlej",
+      "karma": 118.799995,
+      "coins": 497,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "116730375"
+      }
+    },
+    {
+      "username": "taogunner",
+      "karma": 100.0,
+      "coins": 480,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "62808176"
+      }
+    },
+    {
+      "username": "aviktorov2012",
+      "karma": 154.668732,
+      "coins": 9,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "985000669"
+      }
+    },
+    {
+      "username": "linewolf51",
+      "karma": 151.0,
+      "coins": 525,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "245098246"
+      }
+    },
+    {
+      "username": "ratecommunity",
+      "karma": 100.0,
+      "coins": 720,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1487463060"
+      }
+    },
+    {
+      "username": "sko1ovod",
+      "karma": 100.0,
+      "coins": 480,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1029893933"
+      }
+    }
+  ]
+}
